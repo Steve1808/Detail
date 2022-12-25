@@ -9,7 +9,7 @@
  
  ### 💵 〢 HOW - TO - BUY
  
-- If you've read all the details or want to order but still don't understand, you can DM Discord to inquire. / **Fnoberz#0001**
+- If you've read all the details or want to order but still don't understand, you can DM Discord to inquire. / **Slackes#0001**
 
 ---
 
@@ -19,7 +19,7 @@
 - [🔴・Private Cheat](#Project_Private)
 - [🔰・ Product Warranty](#Product_Warranty)
 - [🌌・Discord Server](#discord)
-- [🧹・Private Spoofer](#Spoofer)
+- [🧹・Spoofer](#Spoofer)
 - [🔒・Hardware ID Locking](#HardwareID)
 - [📁・Source Code Full](#source)
 - [🛒・Re-Sell](#resell)
@@ -103,7 +103,7 @@
 
 - [ ] No reinstall windows
 - [ ] No flash bios 
-- [ ] No change account steam , discord , rockstar (fivem)
+- [ ] No change account Rockstar (Fivem)
 
 <table>
 <tr>
@@ -263,8 +263,8 @@ A: Why are you sure it's safe?
 B: we have more than 10 bypass drivers and development team.
 
 Read here !
-- If you have additional questions or concerns, DM: @Fnoberz
-- https://github.com/Cloud-Official/Product
+- If you have additional questions or concerns, DM Dioscrd: Slackes#0001
+- https://github.com/API-Connects/Detail
 
  ```
   
