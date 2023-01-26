@@ -1,4 +1,4 @@
- #  Details
+⭐ #  Details
 
  
  ### 🌟 〢 READ 
@@ -92,7 +92,7 @@
 
 ---
 
-## <a id="Spoofer"></a>🧹 〢 Private Spoofer
+## <a id="Spoofer"></a>⭐ 〢 Private Spoofer
 
 - When the payment is completed We will give you a form to fill in your device such as Motherboard , 
 - Bios Winver so that we can configure the Spoofer to work only. That's why it works with all motherboards
