@@ -94,7 +94,8 @@
 
 ## <a id="Spoofer"></a>🧹 〢 Private Spoofer
 
-- When the payment is completed We will give you a form to fill in your device such as Motherboard , Bios , Winver so that we can configure the Spoofer to work only. That's why it works with all motherboards
+- When the payment is completed We will give you a form to fill in your device such as Motherboard , 
+- Bios Winver so that we can configure the Spoofer to work only. That's why it works with all motherboards
 	
 <table>
 <tr>
@@ -219,54 +220,53 @@
   
   ## <a id="question"></a>❓ 〢 Question and Answer
   
-  ```
-Question & Answer:
 
-Please read our Q&A for you to understand more about it.
-
-A: Will I receive the product after payment
-B: It takes 1-2 days to create a project.
-
-A: No products ready to ship?
-B: The product will be created after payment for security.
-
-A: Does the product have a warranty
-B: You can read it here 💯・warranty
-
-A: A: When updating, do I have to pay for it?
-B: update free permanent
-
-A: Why not sell daily / week / month
-B: we have security reasons that cannot be disclosed
-
-A: IF I want to be a reseller, what should I do
-B: read here : 🔑・re-sell
-
-A: There is no trial version before purchase
-B: as I said, this is a personal project. We built just for you So it doesn't have a trial version and to prevent detection
-
-
-A: Want to see reviews Where can I find videos
-B: dm @Fnoberz to see videos customer reviews.
-
-A: If I want to play more than 1 person
-B: you can share project with friends +30$/1 person
-maximum 5 person
-
-A: What do you use to lock products
-B: hardware ids / a generic spoof can't change it.
-
-A: Can I upgrade to a reseller if I buy a personal project
-B: sure , can do it
-
-A: Why are you sure it's safe?
-B: we have more than 10 bypass drivers and development team.
+> Question & Answer:
+> 
+> Please read our Q&A for you to understand more about it.
+> 
+> A: Will I receive the product after payment
+> B: It takes 1-2 days to create a project.
+> 
+> A: No products ready to ship?
+> B: The product will be created after payment for security.
+> 
+> A: Does the product have a warranty
+> B: You can read it here 💯・warranty
+> 
+> A: A: When updating, do I have to pay for it?
+> B: update free permanent
+> 
+> A: Why not sell daily / week / month
+> B: we have security reasons that cannot be disclosed
+> 
+> A: IF I want to be a reseller, what should I do
+> B: read here : 🔑・re-sell
+> 
+> A: There is no trial version before purchase
+> B: as I said, this is a personal project. We built just for you So it doesn't have a trial version and to prevent detection
+> 
+> 
+> A: Want to see reviews Where can I find videos
+> B: dm @Fnoberz to see videos customer reviews.
+> 
+> A: If I want to play more than 1 person
+> B: you can share project with friends +30$/1 person
+> maximum 5 person
+> 
+> A: What do you use to lock products
+> B: hardware ids / a generic spoof can't change it.
+> 
+> A: Can I upgrade to a reseller if I buy a personal project
+> B: sure , can do it
+> 
+> A: Why are you sure it's safe?
+> B: we have more than 10 bypass drivers and development team.
+> 
 
 Read here !
 - If you have additional questions or concerns, DM Dioscrd: Slackes#0001
 - https://github.com/API-Connects/Detail
-
- ```
   
   ---
   
